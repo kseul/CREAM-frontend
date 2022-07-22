@@ -78,45 +78,4 @@ https://youtu.be/v58DAx5gJzE
 <br/>
 
 
-    
-- 상품 상세 페이지 & 구매 입찰 (이윤섭)
-
-![cream_1](https://user-images.githubusercontent.com/102455161/174475523-1a407108-6307-4aa7-bbce-b7fc267855c5.gif)
-![cream_2](https://user-images.githubusercontent.com/102455161/174475512-90781ab4-c6f5-4f39-b0d7-db25aca242b3.gif)
-![cream_3](https://user-images.githubusercontent.com/102455161/174475555-9991df9c-aa84-48c1-8286-e2daac4d4f07.gif)
-
-
-  ```
-  - 스크롤 이벤트를 이용하여 하단 스크롤시 화면 상단에 상품 quick menu 노출
-  - chart.js 라이브러리를 사용하여 매매 데이터를 시각화
-  - 상품 구매 입찰시 선택한 사이즈와 입찰 희망 가격을 fetch POST로 전송, 판매 입찰시 해당 가격이 노출되도록 구현(금액은 해당 사이즈의 최대값으로만 노출)
-  ```
-    
-
-- 매인 페이지 캐러셀 & 상품 리스트 페이지 필터링 (유지후)
-
-![ezgif com-gif-maker-3 (1)](https://user-images.githubusercontent.com/102349536/174555362-54f82679-2608-4d89-bb0d-c71a5cfbf99b.gif)
-![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/102349536/174555143-852b0980-0445-4b2b-b5cd-e3d0b9c145b3.gif)
-
-  ```
-  - "react-slick" 라이브러리를 사용하여 메인 페이지에 캐러셀 기능 구현
-  - useState를 사용하여 상품 리스트 페이지 필터링 구현
-  - useLocation 사용하여 상품을 클릭했을 때 해당하는 상품의 디테일 페이지로 이동하도록 구현
-  ```
-
-
-- 메인 페이지 검색 & 정렬 & 더보기 기능 (장수연)
-
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/102025598/174558746-5f050dfc-e79f-4e64-b66a-f42bd1bf33ad.gif)
-![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/102025598/174560979-0331648d-77b2-4ba2-89e8-7e6295371dd7.gif)
-
-
- ```
- - 메인 페이지 상단의 검색바에 입력된 검색어를 서버에 동적으로 전달하여 검색 결과를 가져오는 기능 구현
- - 정렬 기능: 인기순, 발매순, 가격순, 프리미엄 순으로 상품들을 정렬해서 보여줄 수 있도록 드롭다운 목록을 만든 후 사용자가 선택한 옵션의 value를 서버에 전달
- - 더보기 기능: 페이지 하단의 더보기 버튼을 누를 때마다 상품을 8개씩 더 보여줄 수 있도록 offset과 limit parameter를 사용한 pagination 기능과 scroll back to top 버튼 구현
- ```
-
-  
-
 
