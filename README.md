@@ -46,7 +46,7 @@ https://youtu.be/v58DAx5gJzE
 
 ## 구현 기능
 
-- ✍️ [프로젝트 회고]([https://velog.io/@seul06/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8](https://velog.io/@seul06/cream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+- ✍️ [프로젝트 회고]([https://velog.io/@seul06/2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8]https://velog.io/@seul06/cream-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 - Nav Bar & Footer, 소셜 로그인 & 회원가입 (김슬비)
 
 ![Jun-19-2022 20-00-52](https://user-images.githubusercontent.com/93895746/174477730-60f5777c-3bd5-4b19-ab14-9889ebb7148e.gif)
